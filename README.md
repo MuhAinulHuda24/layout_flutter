@@ -40,7 +40,14 @@ body: ListView(children: [buttonSection]),
 <img width="762" height="271" alt="image" src="https://github.com/user-attachments/assets/e6e62fec-1762-4852-8510-65c8676a42a3" />
 ## Langkah 3: Terakhir, ubah menjadi ListView
 <img width="491" height="219" alt="image" src="https://github.com/user-attachments/assets/5357ab0d-3a4d-4594-96c9-8ec04d3c3201" />
-# Hasil Akhir 
+ # Hasil Akhir 
 <img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/108674c0-a666-41ff-9cf9-fd27f431d42a" />
+versi Iphone :
+<img width="329" height="700" alt="image" src="https://github.com/user-attachments/assets/0d092b1f-be7a-4446-b4bf-8e2af31b3016" />
+
+
+
+
+
 
 
