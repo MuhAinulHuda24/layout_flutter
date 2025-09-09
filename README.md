@@ -71,10 +71,10 @@ Navigator (untuk berpindah halaman)
 
 ## Langkah 6: Membuat ListView dan itemBuilder
 ~
+<img width="764" height="575" alt="image" src="https://github.com/user-attachments/assets/38c82ace-fc53-415c-ba45-be356b7511ff" />
 
 ## Langkah 7: Menambahkan aksi pada ListView
 ~
-
 
 
 
